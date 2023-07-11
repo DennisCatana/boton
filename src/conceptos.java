@@ -22,7 +22,6 @@ public class conceptos {
             }
         });
     }
-
     public static void main(String[] args) {
         JFrame frame = new JFrame("conceptos");
         frame.setContentPane(new conceptos().rootpanel);
